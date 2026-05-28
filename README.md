@@ -57,11 +57,11 @@ Projeler hakkında konuşmak, iş birliği yapmak veya sadece kahve eşliğinde 
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   
-  <a href="https://www.instagram.com/mert_danisman1" target="_blank">
+  <a  target="_blank" href="https://www.instagram.com/mert_danisman1">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
-<a href="https://x.com/mertd4nisman" target="_blank">
+<a  target="_blank" href="https://x.com/mertd4nisman">
   <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
 </a>
 </p>
