@@ -34,6 +34,7 @@ Web Developer(Full Stack), Application Developer Ve Software Developer. Temiz ko
 #### **Application Dev**
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/XML-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="XML" />
   
 </p>
 
