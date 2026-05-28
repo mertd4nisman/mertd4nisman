@@ -13,7 +13,7 @@ Web Developer(Full Stack), Application Developer Ve Software Developer. Temiz ko
 #### **Backend & Scripting**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
 </p>
 
 #### **Frontend**
@@ -33,7 +33,7 @@ Web Developer(Full Stack), Application Developer Ve Software Developer. Temiz ko
 
 ### 📂 Öne Çıkan Projelerim
 
-* **🖼️ Image Converter:** PNG ve diğer formatlardaki görselleri toplu halde JPEG'e dönüştüren, iş akışlarını hızlandıran Python tabanlı bir otomasyon scripti.
+* **🖼️ Image Converter:** PNG ve diğer formatlardaki görselleri toplu halde düzenleyen, iş akışlarını hızlandıran Python tabanlı bir otomasyon scripti.
 * **🔓 Base64 Decoder:** Base64 kodlarını hızlı, güvenli ve efektif bir şekilde çözen pratik bir Python aracı.
 * **🌐 Minimalist Portfolyo Web Sitesi:** Dark-mode desteğine sahip, tamamen responsive (mobil uyumlu) tasarlanmış kişisel portfolyo web sitesi.
 * **🏥 Hastane Randevu Yönetim Sistemi (MHRS Simülasyonu)** C# dili ile geliştirilen çok yönlü bir MHRS sistemi.
