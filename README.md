@@ -52,4 +52,14 @@ Web Developer(Full Stack), Application Developer Ve Software Developer. Temiz ko
 
 Projeler hakkında konuşmak, iş birliği yapmak veya sadece kahve eşliğinde yazılım sohbeti etmek isterseniz bana her zaman ulaşabilirsiniz işte iletişim bilgilerim:
 
-<p align="left"><a href="https://x.com/mertd4nisman" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>&nbsp;<a href="https://www.instagram.com/mert_danisman1" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;<a href="mailto:mertd4nisman@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></p>
+<p align="left">
+  <a href="https://x.com/mertd4nisman" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
+  </a>
+  <a href="https://www.instagram.com/mert_danisman1" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:mertd4nisman@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
