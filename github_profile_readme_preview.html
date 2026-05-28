@@ -1,0 +1,112 @@
+
+<style>
+  body { margin: 0; }
+  .gh-frame { background: var(--color-background-secondary); border-radius: var(--border-radius-lg); padding: 20px; }
+  .readme { background: var(--color-background-primary); border: 0.5px solid var(--color-border-tertiary); border-radius: var(--border-radius-lg); padding: 28px 32px; font-family: var(--font-sans); }
+  .readme h1 { font-size: 22px; font-weight: 500; margin: 0 0 6px; color: var(--color-text-primary); }
+  .readme h3 { font-size: 15px; font-weight: 500; margin: 1.4rem 0 0.6rem; color: var(--color-text-primary); border-bottom: 0.5px solid var(--color-border-tertiary); padding-bottom: 6px; }
+  .readme p { font-size: 14px; color: var(--color-text-secondary); margin: 0 0 0.75rem; line-height: 1.65; }
+  .badges { display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0 1rem; }
+  .badge { font-size: 11px; font-weight: 500; padding: 4px 10px; border-radius: 99px; }
+  .b-py { background: #E8F5E9; color: #2E7D32; }
+  .b-js { background: #FFFDE7; color: #F57F17; }
+  .b-html { background: #FBE9E7; color: #BF360C; }
+  .b-css { background: #E3F2FD; color: #0D47A1; }
+  .b-flask { background: #F3E5F5; color: #6A1B9A; }
+  .b-git { background: #FFF3E0; color: #E65100; }
+  .stat-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 0.75rem 0; }
+  .stat-card { background: var(--color-background-secondary); border-radius: var(--border-radius-md); padding: 12px 14px; border: 0.5px solid var(--color-border-tertiary); }
+  .stat-label { font-size: 11px; color: var(--color-text-tertiary); margin-bottom: 2px; }
+  .stat-val { font-size: 18px; font-weight: 500; color: var(--color-text-primary); }
+  .proj-list { display: flex; flex-direction: column; gap: 8px; margin: 0.5rem 0; }
+  .proj-item { display: flex; align-items: flex-start; gap: 10px; padding: 10px 12px; border: 0.5px solid var(--color-border-tertiary); border-radius: var(--border-radius-md); }
+  .proj-icon { font-size: 18px; margin-top: 1px; flex-shrink: 0; }
+  .proj-name { font-size: 13px; font-weight: 500; color: var(--color-text-info); margin: 0 0 2px; }
+  .proj-desc { font-size: 12px; color: var(--color-text-secondary); margin: 0; }
+  .contact-row { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 0.5rem; }
+  .contact-pill { display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--color-text-secondary); background: var(--color-background-secondary); border: 0.5px solid var(--color-border-tertiary); border-radius: 99px; padding: 5px 12px; }
+  .snake-grid { display: flex; gap: 3px; margin: 0.5rem 0 1rem; }
+  .week { display: flex; flex-direction: column; gap: 3px; }
+  .cell { width: 11px; height: 11px; border-radius: 2px; }
+  .c0 { background: var(--color-border-tertiary); }
+  .c1 { background: #9BE9A8; }
+  .c2 { background: #40C463; }
+  .c3 { background: #30A14E; }
+  .c4 { background: #216E39; }
+  .typing { overflow: hidden; white-space: nowrap; border-right: 2px solid var(--color-text-primary); animation: blink .7s step-end infinite; font-size: 14px; color: var(--color-text-secondary); display: inline-block; }
+  @keyframes blink { 50% { border-color: transparent; } }
+</style>
+
+<div style="padding: 1rem 0;">
+  <div class="gh-frame">
+    <div class="readme">
+
+      <h1>Merhaba, ben Mert DANIŞMAN 👋</h1>
+      <p class="typing">Full Stack Developer &amp; Python geliştirici, Elazığ 📍</p>
+
+      <div class="badges">
+        <span class="badge b-py"><i class="ti ti-brand-python" aria-hidden="true" style="font-size:12px;margin-right:3px"></i> Python</span>
+        <span class="badge b-js"><i class="ti ti-brand-javascript" aria-hidden="true" style="font-size:12px;margin-right:3px"></i> JavaScript</span>
+        <span class="badge b-html">HTML5</span>
+        <span class="badge b-css">CSS3</span>
+        <span class="badge b-flask">Flask</span>
+        <span class="badge b-git"><i class="ti ti-brand-git" aria-hidden="true" style="font-size:12px;margin-right:3px"></i> Git</span>
+      </div>
+
+      <h3>Hakkımda</h3>
+      <p>Python, Web Geliştirme (Full Stack), Uygulama Geliştirme ve Yazılım Geliştirme ile uğraşan bir yazılımcıyım. Temiz kod yazmayı ve kullanımı kolay araçlar geliştirmeyi seviyorum.</p>
+
+      <h3>Projeler</h3>
+      <div class="proj-list">
+        <div class="proj-item">
+          <i class="ti ti-photo proj-icon" aria-hidden="true"></i>
+          <div>
+            <p class="proj-name">Image Converter</p>
+            <p class="proj-desc">PNG ve diğer formatlardaki resimleri toplu halde JPEG'e dönüştüren Python otomasyon scripti</p>
+          </div>
+        </div>
+        <div class="proj-item">
+          <i class="ti ti-lock proj-icon" aria-hidden="true"></i>
+          <div>
+            <p class="proj-name">Base64 Decoder</p>
+            <p class="proj-desc">Base64 kodlarını hızlıca çözen Python aracı</p>
+          </div>
+        </div>
+        <div class="proj-item">
+          <i class="ti ti-world proj-icon" aria-hidden="true"></i>
+          <div>
+            <p class="proj-name">Minimalist Portfolyo Web Sitesi</p>
+            <p class="proj-desc">Dark-mode, responsive kişisel portfolyo sitesi</p>
+          </div>
+        </div>
+      </div>
+
+      <h3>Katkı aktivitesi</h3>
+      <div class="snake-grid" id="grid"></div>
+
+      <h3>İletişim</h3>
+      <div class="contact-row">
+        <span class="contact-pill"><i class="ti ti-brand-github" aria-hidden="true" style="font-size:14px"></i> @mertd4nisman</span>
+        <span class="contact-pill"><i class="ti ti-mail" aria-hidden="true" style="font-size:14px"></i> e-posta</span>
+        <span class="contact-pill"><i class="ti ti-world" aria-hidden="true" style="font-size:14px"></i> portfolyo</span>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<script>
+const grid = document.getElementById('grid');
+const levels = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2,0,1,2,4,3,2,1,0];
+for(let w=0;w<levels.length;w++){
+  const col=document.createElement('div');
+  col.className='week';
+  for(let d=0;d<7;d++){
+    const cell=document.createElement('div');
+    const lvl = w>=42 ? levels[w] : (Math.random()<0.08?Math.ceil(Math.random()*2):0);
+    cell.className='cell c'+lvl;
+    col.appendChild(cell);
+  }
+  grid.appendChild(col);
+}
+</script>
